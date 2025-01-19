@@ -30,7 +30,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/LuisWebCode/LuisWebCode/output/snake.svg" alt="Snake animation" />
-
-###
